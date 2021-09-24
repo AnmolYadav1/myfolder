@@ -1,5 +1,7 @@
 //hello everyone
+
 #include<stdio.h>
+//This is simple code created by anmol yadav
 int main(){
 printf("Hello world 1");
 }
